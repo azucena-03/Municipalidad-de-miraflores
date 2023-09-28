@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID c3c8bd59-33a2-49f7-87d1-3ff984281064</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Requisito_NO_Funcional</_name>
+			<_modifiedTimeWeak type="a">6.23.2021::12:37:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.23.2021::12:37:55</_modifiedTime>
+			<_lastID type="a">7</_lastID>
+			<weakCGTime type="a">6.23.2021::12:37:55</weakCGTime>
+			<strongCGTime type="a">6.23.2021::12:31:49</strongCGTime>
+			<_defaultComposite type="s">GUID 4ef1683e-50a3-4789-8152-2896238ff5b8</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID ee38150b-6a29-48f0-b298-12a0219b2228</value>
+				<value>GUID 8ba06234-319e-44ac-b3a6-96e688ff6467</value>
+				<value>GUID b894bd8c-ba4e-410f-bd9c-393b18c72858</value>
+				<value>GUID 2997e9c2-6a6d-496e-b66c-4fe9de990bc5</value>
+				<value>GUID 2675afce-321e-4bd4-8e02-f84d0db69116</value>
+				<value>GUID 3b3d4180-2112-4735-b61d-2a81facc1b2e</value>
+				<value>GUID ce8eb113-e5dc-410a-b480-57074902c949</value>
+				<value>GUID 4ef1683e-50a3-4789-8152-2896238ff5b8</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID ee38150b-6a29-48f0-b298-12a0219b2228</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_65_Navegadores</_name>
+			<_modifiedTimeWeak type="a">6.23.2021::12:35:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.23.2021::12:35:40</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Calibri;}{\f2\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe funcionar en los \f1 principales \f0 navegadores\cf0\f2\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RNF01</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 8ba06234-319e-44ac-b3a6-96e688ff6467</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_66_Web</_name>
+			<_modifiedTimeWeak type="a">6.23.2021::12:36:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.23.2021::12:36:8</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe ser una pagina web\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RNF02</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID b894bd8c-ba4e-410f-bd9c-393b18c72858</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_67_Adaptable</_name>
+			<_modifiedTimeWeak type="a">6.23.2021::12:36:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.23.2021::12:36:31</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Calibri;}{\f2\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe adaptarse y mostrarse correctamente en diferentes tama\f1\'f1\f0 os de pantalla y dispositivos\cf0\f2\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RNF03</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 2997e9c2-6a6d-496e-b66c-4fe9de990bc5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_68_Disponibilidad</_name>
+			<_modifiedTimeWeak type="a">6.23.2021::12:36:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.23.2021::12:36:46</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe estar disponible y accesible para los usuarios la mayor parte del tiempo\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RNF04</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 2675afce-321e-4bd4-8e02-f84d0db69116</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_69_Estandares</_name>
+			<_modifiedTimeWeak type="a">6.23.2021::12:37:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.23.2021::12:37:1</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Calibri;}{\f2\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe cumplir con los est\f1\'e1\f0 ndares web establecidos, como HTML5, CSS3 y accesibilidad web\cf0\f2\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RNF05</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 3b3d4180-2112-4735-b61d-2a81facc1b2e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_70_Estabilidad</_name>
+			<_modifiedTimeWeak type="a">6.23.2021::12:37:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.23.2021::12:37:55</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Calibri;}{\f2\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe ser capaz de manejar un aumento en el tr\f1\'e1\f0 fico y la carga de usuarios sin degradar el rendimiento\cf0\f2\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RNF06</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID ce8eb113-e5dc-410a-b480-57074902c949</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_71_Intuitivo</_name>
+			<_modifiedTimeWeak type="a">6.23.2021::12:37:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.23.2021::12:37:28</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Calibri;}{\f2\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe ser intuitivo y f\f1\'e1\f0 cil de usar\cf0\f2\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RNF07</reqID>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID 4ef1683e-50a3-4789-8152-2896238ff5b8</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">6.23.2021::12:31:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">6.23.2021::12:31:49</weakCGTime>
+			<strongCGTime type="a">6.23.2021::12:31:49</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

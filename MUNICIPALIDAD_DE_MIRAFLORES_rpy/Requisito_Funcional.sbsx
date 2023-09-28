@@ -1,0 +1,3166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 601ee94b-a8ea-4dfc-89d6-2dd493284988</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Requisito_Funcional</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:50</_modifiedTime>
+			<_lastID type="a">65</_lastID>
+			<weakCGTime type="a">3.2.2021::1:37:50</weakCGTime>
+			<strongCGTime type="a">3.1.2021::12:49:47</strongCGTime>
+			<_defaultComposite type="s">GUID 7f6c2e02-90bd-4792-b0c0-10015d488b33</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 77deda20-c871-4709-a445-a1c45d8a3b47</value>
+				<value>GUID 90ec2115-927f-4719-8f7a-2f5af01772eb</value>
+				<value>GUID f8a79c02-7723-4e2e-96aa-35997d8d23d0</value>
+				<value>GUID 5282dfe8-2050-4432-94e5-50ee77a41fd4</value>
+				<value>GUID 04ea2eaf-e471-4a2a-81b6-59fcdb97131b</value>
+				<value>GUID 3e19e7be-2dae-48a4-a75f-f17d96deed70</value>
+				<value>GUID 0e7a0642-24e7-4803-b0f4-406186e14d54</value>
+				<value>GUID c59156a4-1fdb-4be1-bbe8-716b350f48dc</value>
+				<value>GUID d9bb3c17-f226-4029-83c8-17cb4ef6a0ef</value>
+				<value>GUID c660d8c2-2e1d-48c6-ad0c-670ab28cd632</value>
+				<value>GUID 7c64b527-4726-4d8a-80d1-998c85157e36</value>
+				<value>GUID 1a9c5ecc-2954-4d88-9132-3af72530157d</value>
+				<value>GUID ab4594bd-bd45-498c-b992-b3ef54c89860</value>
+				<value>GUID 383678d0-d792-4eda-bca0-64298bf95a09</value>
+				<value>GUID b8b331a1-ece7-486a-9a94-bf88efc8c48f</value>
+				<value>GUID 9635ee39-e022-4b6d-927d-2cd346496185</value>
+				<value>GUID 6c11ef1d-843b-4617-8aa3-442116223e60</value>
+				<value>GUID aed0a80d-4e0f-4198-9265-af41e82a541f</value>
+				<value>GUID bd5732d7-8c4c-427b-87f9-a3e2eb833353</value>
+				<value>GUID 7cdec8ac-8009-42ff-aab9-ef79ce4ec735</value>
+				<value>GUID 69542661-3a41-420c-9ca8-0d25fb39b743</value>
+				<value>GUID 9ff65af1-7705-4e63-9bd5-544c448bdef1</value>
+				<value>GUID b1b1b589-4289-4223-af72-4e62737aa957</value>
+				<value>GUID eb3f5232-eafe-4603-8872-42d16a3b6827</value>
+				<value>GUID 83d90fce-a286-4a52-93f7-83976bdb0d58</value>
+				<value>GUID 4c23090b-d0b6-4943-8f4a-95aac6cf9180</value>
+				<value>GUID 447d4163-be49-42d5-bfc5-9530ea0e50c0</value>
+				<value>GUID 63860053-dfa9-4f1d-830c-3f9c64e57e3b</value>
+				<value>GUID cb3c2c88-ded9-4afa-a72b-2c62f5303e3c</value>
+				<value>GUID 0a2e49b1-9262-4dfd-ae87-9df8f0025b08</value>
+				<value>GUID e8c58f7a-f257-4d9b-9237-d0f10c1f90a6</value>
+				<value>GUID 54113ba8-01a3-40dc-82c3-9ad99bcc5152</value>
+				<value>GUID 73e6185c-add4-4e2e-849f-3b5cc8f1cfdd</value>
+				<value>GUID e254f760-caef-4c03-acd2-dd4ad24fefcb</value>
+				<value>GUID 4d3c2ee9-2ea7-46f3-b3b3-2b8ae6edd618</value>
+				<value>GUID 6d33f790-a3b2-41b0-882c-b8a2ade8a10f</value>
+				<value>GUID 86dee6ea-7e59-47ad-acbc-aa61655a7ce9</value>
+				<value>GUID f7337ace-0c8a-4918-94fb-0ffa250e18d8</value>
+				<value>GUID 4d0140b8-fbed-4eba-a442-b83f884d77f0</value>
+				<value>GUID af9d019f-ed22-4bd4-b5ad-ec9af8c3de0f</value>
+				<value>GUID c4246ff5-2a65-47d2-b05e-03d00227a0aa</value>
+				<value>GUID a62bc8e6-cb6c-49ba-823a-6103cdd68a42</value>
+				<value>GUID 43043899-fb71-4a25-a770-a136b947647c</value>
+				<value>GUID 81878bb5-f34e-400d-8b78-8fae5d5ba48a</value>
+				<value>GUID 5d727ba7-f0ac-4530-8b51-f97282bfbb8e</value>
+				<value>GUID f10b8651-51c2-44c1-be1d-78186babb49c</value>
+				<value>GUID 8c685d7c-72c2-4c11-8133-4b40909dafbb</value>
+				<value>GUID 806d7272-6904-45b9-adbb-5fa705835dc1</value>
+				<value>GUID 3638962b-7942-4446-9ca8-76b0ed567271</value>
+				<value>GUID 34f565bf-140a-4190-8017-afb779c13ba1</value>
+				<value>GUID 2e98bc85-19e4-45e4-9922-b324fb4ce6b1</value>
+				<value>GUID 7e8f5aaf-a924-450a-a712-ceba84e2e4e9</value>
+				<value>GUID de98b81c-9518-4412-aeec-59849524bb7e</value>
+				<value>GUID a532ca08-edfa-4180-bd5f-37ec3d0c6831</value>
+				<value>GUID 34776416-447f-4c47-a532-09d93e786277</value>
+				<value>GUID 0d2b407e-2873-4022-beb3-e20128263088</value>
+				<value>GUID 2280fa27-0b5d-4df1-a064-687613ef79cd</value>
+				<value>GUID 9b1509ae-8704-4794-8de2-7eb382706fb2</value>
+				<value>GUID 98c9989c-b02c-4c52-8f63-50b560dee632</value>
+				<value>GUID e0bbf421-12a8-4adb-81df-88cd6a96a989</value>
+				<value>GUID 1f4b5ae2-be6a-4171-8bf5-0e8c8b7e04ce</value>
+				<value>GUID a43e1fb3-221d-4c96-b13e-e463d0c43e22</value>
+				<value>GUID 882d5142-5b6e-4a6a-a7b5-0f1f635193de</value>
+				<value>GUID e36af908-22bf-49fc-a1e8-979c46a97e87</value>
+				<value>GUID 7f6c2e02-90bd-4792-b0c0-10015d488b33</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID 77deda20-c871-4709-a445-a1c45d8a3b47</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_01_Iniciar Sesion</_name>
+			<_modifiedTimeWeak type="a">6.23.2021::13:27:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.23.2021::13:27:16</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir iniciar sesion\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF001</reqID>
+			<AggregatesList type="e">
+				<value>GUID 8a05a022-f5c9-497b-92f2-9d3b832830c6</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 8a05a022-f5c9-497b-92f2-9d3b832830c6</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_01_Inciar Sesion</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:27:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.23.2021::13:27:55</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_01_Inciar Sesion</_hname>
+					<_hid type="a">GUID 08d43b0b-a158-4b86-95ab-a87d9f420ca4</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 77deda20-c871-4709-a445-a1c45d8a3b47</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 90ec2115-927f-4719-8f7a-2f5af01772eb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_02_Registrar Usuario</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:7</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir registrar nuevo usuario.\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF002</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID f8a79c02-7723-4e2e-96aa-35997d8d23d0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_13_Consultar Estado de la solicitud</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:34:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:34:43</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir ver el estado de la solicitud de licencia de funcionamiento\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF013</reqID>
+			<AggregatesList type="e">
+				<value>GUID 116e7a3e-628e-459d-ad55-5bc5d88d89bc</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 116e7a3e-628e-459d-ad55-5bc5d88d89bc</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_03_Consultar Solicitudes de Licencia de Funcionamiento</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:40:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:18</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_03_Consultar Solicitudes de Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 0f2951e2-3f19-4822-9168-9c7ee10f8a31</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID f8a79c02-7723-4e2e-96aa-35997d8d23d0</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 5282dfe8-2050-4432-94e5-50ee77a41fd4</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_24_Pagar por diferentes medios</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:9</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir pagar por diferentes medios\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF024</reqID>
+			<AggregatesList type="e">
+				<value>GUID 06d29f6e-cae4-4abd-b71b-0c6c85dee8a0</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 06d29f6e-cae4-4abd-b71b-0c6c85dee8a0</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_04_Registrar Pago</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:53:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_04_Registrar Pago</_hname>
+					<_hid type="a">GUID 86c82459-8a4f-4bc2-84b9-bd11e13d475d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 5282dfe8-2050-4432-94e5-50ee77a41fd4</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 04ea2eaf-e471-4a2a-81b6-59fcdb97131b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_35_Registrar Solicitud ITSDC en expediente</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:39</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe registrar la solicitud ITSDC en el expediente\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF035</reqID>
+			<AggregatesList type="e">
+				<value>GUID 531c6624-e5b5-4969-a630-df77c6d6d116</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 531c6624-e5b5-4969-a630-df77c6d6d116</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_07_Registrar Solicitud ITSDC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:20:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:39</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_07_Registrar Solicitud ITSDC</_hname>
+					<_hid type="a">GUID 1a17ffbe-c3d9-459c-a389-51fc5131b80f</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 04ea2eaf-e471-4a2a-81b6-59fcdb97131b</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 3e19e7be-2dae-48a4-a75f-f17d96deed70</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_46_Revisar ITEC</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:36</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir revisar el ITEC\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF046</reqID>
+			<AggregatesList type="e">
+				<value>GUID 180632bd-2478-4bee-9ac7-8b5c33d4ed51</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 180632bd-2478-4bee-9ac7-8b5c33d4ed51</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_10_Gestionar ITEC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:13:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:36</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_10_Gestionar ITEC</_hname>
+					<_hid type="a">GUID 6ffebfac-5080-43f9-88ab-5b712510707b</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 3e19e7be-2dae-48a4-a75f-f17d96deed70</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 0e7a0642-24e7-4803-b0f4-406186e14d54</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_57_Actualizar estado a firmado</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe actualizar el estado de las resoluciones a firmado\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF_057</reqID>
+			<AggregatesList type="e">
+				<value>GUID 8aff8fc0-a0cb-4781-945c-e679885978a3</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 8aff8fc0-a0cb-4781-945c-e679885978a3</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_11_Gestionar Resoluciones</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:36:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_11_Gestionar Resoluciones</_hname>
+					<_hid type="a">GUID 5c7ef447-4eeb-43e6-afb7-96c98064cbb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 0e7a0642-24e7-4803-b0f4-406186e14d54</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID c59156a4-1fdb-4be1-bbe8-716b350f48dc</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_62_Enviar expediente a la SGCa</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:50</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir enviar expediente a la SGCa\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF062</reqID>
+			<AggregatesList type="e">
+				<value>GUID d2f08cb3-7860-42e9-9d5a-fc1392fa9922</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID d2f08cb3-7860-42e9-9d5a-fc1392fa9922</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_12_Gestionar Expediente</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:40:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_12_Gestionar Expediente</_hname>
+					<_hid type="a">GUID 63660c0b-ef17-4d10-8b76-5e0d29172e1a</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID c59156a4-1fdb-4be1-bbe8-716b350f48dc</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID d9bb3c17-f226-4029-83c8-17cb4ef6a0ef</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_63_Enviar expediente al archivo provisional</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:50</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir enviar expediente al archivo provisional de la SGC\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF063</reqID>
+			<AggregatesList type="e">
+				<value>GUID 917a9146-2e2b-4fff-8f0d-a6f0bca8fd75</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 917a9146-2e2b-4fff-8f0d-a6f0bca8fd75</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_12_Gestionar Expediente</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:40:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_12_Gestionar Expediente</_hname>
+					<_hid type="a">GUID 63660c0b-ef17-4d10-8b76-5e0d29172e1a</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID d9bb3c17-f226-4029-83c8-17cb4ef6a0ef</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID c660d8c2-2e1d-48c6-ad0c-670ab28cd632</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_64_Actualizar estado de expediente</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:50</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe actualizar el estado del expediente a revisado\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF064</reqID>
+			<AggregatesList type="e">
+				<value>GUID 3d8da7f0-3b88-4b71-946a-8f12646b1b89</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 3d8da7f0-3b88-4b71-946a-8f12646b1b89</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_12_Gestionar Expediente</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:41:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_12_Gestionar Expediente</_hname>
+					<_hid type="a">GUID 63660c0b-ef17-4d10-8b76-5e0d29172e1a</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID c660d8c2-2e1d-48c6-ad0c-670ab28cd632</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 7c64b527-4726-4d8a-80d1-998c85157e36</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_03_Recuperar Contrase%F1a</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:7</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir recuperar contrase\'f1a.\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF003</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 1a9c5ecc-2954-4d88-9132-3af72530157d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_04_Recibir Notificaciones</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::12:24:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::12:24:57</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir recibir notificaciones.\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF004</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID ab4594bd-bd45-498c-b992-b3ef54c89860</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_05_Generar Notificaciones</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::12:25:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::12:25:44</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sisteme debe generar notificaciones\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF005</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 383678d0-d792-4eda-bca0-64298bf95a09</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_06_Ver detalles de notificaciones</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::12:27:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::12:27:43</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir ver los detalles de la notificaciones\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF006</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID b8b331a1-ece7-486a-9a94-bf88efc8c48f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_07_Redirigir a otras pesta%F1as</_name>
+			<_displayName type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 MS Shell Dlg;}}%0D
+\viewkind4\uc1\pard\f0\fs17 FEAT_07_Redirigir a otras pesta\'f1as\par%0D
+}%0D
+</_displayName>
+			<_modifiedTimeWeak type="a">3.1.2021::12:28:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::12:28:57</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sisteme debe permitir que las notificaciones puedan redirigir a pesta\'f1as\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF007</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 9635ee39-e022-4b6d-927d-2cd346496185</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_08_Subir documentos</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">3.2.2021::1:34:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:34:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir subir los documentos del administrado\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF008</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 6c11ef1d-843b-4617-8aa3-442116223e60</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_09_Registrar Solicitud de licencia</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:13</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir registrar la solicitud de licencia de funcionamiento\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF009</reqID>
+			<AggregatesList type="e">
+				<value>GUID c015c02b-6d44-45b2-b414-7ff024a010fd</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID c015c02b-6d44-45b2-b414-7ff024a010fd</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_02_Registrar Solicitud de Licencia de Funcionamiento</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:33:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:13</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_02_Registrar Solicitud de Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID f36e2734-1b84-41f0-963f-b30eeaea27d4</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 6c11ef1d-843b-4617-8aa3-442116223e60</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID aed0a80d-4e0f-4198-9265-af41e82a541f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_10_Ver solicitudes de licencia</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:34:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:34:43</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sisteme debe permitir ver las solicitudes de licencia de funcionamiento de los administrados\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF010</reqID>
+			<AggregatesList type="e">
+				<value>GUID 13d872a4-f202-45ec-8f90-e3d47d0c1299</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 13d872a4-f202-45ec-8f90-e3d47d0c1299</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_03_Consultar Solicitudes de Licencia de Funcionamiento</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:40:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:18</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_03_Consultar Solicitudes de Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 0f2951e2-3f19-4822-9168-9c7ee10f8a31</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID aed0a80d-4e0f-4198-9265-af41e82a541f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID bd5732d7-8c4c-427b-87f9-a3e2eb833353</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_11_Buscar Expedientes</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:30</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir buscar los expedientes de los administrados\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF011</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 7cdec8ac-8009-42ff-aab9-ef79ce4ec735</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_12_Consultar documentos</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:25</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir consultar los documentos dentro de los expedientes\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF012</reqID>
+			<AggregatesList type="e">
+				<value>GUID 43897243-747f-4120-b26c-6ea51a2d88bd</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 43897243-747f-4120-b26c-6ea51a2d88bd</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_05_Consultar Expediente</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:3:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:24</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_05_Consultar Expediente</_hname>
+					<_hid type="a">GUID 7d0df84d-92ce-4556-8ab7-f315a429707e</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 7cdec8ac-8009-42ff-aab9-ef79ce4ec735</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 69542661-3a41-420c-9ca8-0d25fb39b743</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_14_Aprobar solicitud de licencia</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitit aprobar la solicitud de licencia de funcionamiento\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF014</reqID>
+			<AggregatesList type="e">
+				<value>GUID b68b7848-0161-4e25-93db-683e17e0d02b</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID b68b7848-0161-4e25-93db-683e17e0d02b</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:9:42</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 6de1a942-8448-44fc-9087-d9e843887c77</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 69542661-3a41-420c-9ca8-0d25fb39b743</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 9ff65af1-7705-4e63-9bd5-544c448bdef1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_15_Rechazar solicitud de licencia</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir rechazar la solicitud de licencia de funcionamiento\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF015</reqID>
+			<AggregatesList type="e">
+				<value>GUID 5a92fdfb-6942-4b89-8681-426b53de449d</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 5a92fdfb-6942-4b89-8681-426b53de449d</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:9:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 6de1a942-8448-44fc-9087-d9e843887c77</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 9ff65af1-7705-4e63-9bd5-544c448bdef1</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID b1b1b589-4289-4223-af72-4e62737aa957</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_16_Actualizar estado de la solicitud de licencia</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir cambiar el estado de la solicitud de licencia de funcionamiento\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF016</reqID>
+			<AggregatesList type="e">
+				<value>GUID 0b62f953-f9ea-4e7a-840d-86a868afdc43</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 0b62f953-f9ea-4e7a-840d-86a868afdc43</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:9:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 6de1a942-8448-44fc-9087-d9e843887c77</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID b1b1b589-4289-4223-af72-4e62737aa957</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID eb3f5232-eafe-4603-8872-42d16a3b6827</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_17_Generar Orden de Pago</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe generar la Orden de Pago\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF017</reqID>
+			<AggregatesList type="e">
+				<value>GUID 6953f050-a9aa-45cb-ba2a-405646e6ab5a</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 6953f050-a9aa-45cb-ba2a-405646e6ab5a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:9:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 6de1a942-8448-44fc-9087-d9e843887c77</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID eb3f5232-eafe-4603-8872-42d16a3b6827</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 83d90fce-a286-4a52-93f7-83976bdb0d58</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_18_Generar Notificacion de orden de pago</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe generar notificacion de Orden de pago\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF018</reqID>
+			<AggregatesList type="e">
+				<value>GUID b4bfbbae-e81d-442f-8056-d79a47a9c643</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID b4bfbbae-e81d-442f-8056-d79a47a9c643</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:9:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 6de1a942-8448-44fc-9087-d9e843887c77</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 83d90fce-a286-4a52-93f7-83976bdb0d58</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 4c23090b-d0b6-4943-8f4a-95aac6cf9180</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_19_Enviar notificacion de Orden de pago</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe enviar notificacion de Orden de pago\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF019</reqID>
+			<AggregatesList type="e">
+				<value>GUID 6cc73de7-4a39-42e4-bd34-edf519b7d309</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 6cc73de7-4a39-42e4-bd34-edf519b7d309</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:10:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 6de1a942-8448-44fc-9087-d9e843887c77</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 4c23090b-d0b6-4943-8f4a-95aac6cf9180</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 447d4163-be49-42d5-bfc5-9530ea0e50c0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_20_Registrar Observaciones de la solicitud de licencia</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir registrar observaciones a la solicitud de licencia de funcionamiento\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF020</reqID>
+			<AggregatesList type="e">
+				<value>GUID f4af8492-ddcc-4544-ab6a-1c79f6d45190</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID f4af8492-ddcc-4544-ab6a-1c79f6d45190</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:10:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 6de1a942-8448-44fc-9087-d9e843887c77</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 447d4163-be49-42d5-bfc5-9530ea0e50c0</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 63860053-dfa9-4f1d-830c-3f9c64e57e3b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_21_Buscar Oden de Pago</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:15</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir buscar la orden de pago\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF021</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID cb3c2c88-ded9-4afa-a72b-2c62f5303e3c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_22_Efectuar Pago</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:9</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir efectuar el pago de la orden de pago\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF022</reqID>
+			<AggregatesList type="e">
+				<value>GUID 8d05fdb8-4be9-4d83-be65-f5a8c6a2ccfb</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 8d05fdb8-4be9-4d83-be65-f5a8c6a2ccfb</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_04_Registrar Pago</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:53:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_04_Registrar Pago</_hname>
+					<_hid type="a">GUID 86c82459-8a4f-4bc2-84b9-bd11e13d475d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID cb3c2c88-ded9-4afa-a72b-2c62f5303e3c</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 0a2e49b1-9262-4dfd-ae87-9df8f0025b08</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_23_Calcular monto a pagar</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe calcular el monto a pagar en la orden de pago\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF023</reqID>
+			<AggregatesList type="e">
+				<value>GUID 8c68ccc3-82ad-46ac-a38a-d35e456080b4</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 8c68ccc3-82ad-46ac-a38a-d35e456080b4</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:10:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:33</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 6de1a942-8448-44fc-9087-d9e843887c77</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 0a2e49b1-9262-4dfd-ae87-9df8f0025b08</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID e8c58f7a-f257-4d9b-9237-d0f10c1f90a6</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_25_Registrar Pago</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:9</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe registrar el pago de la orden de pago\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF025</reqID>
+			<AggregatesList type="e">
+				<value>GUID 1b115a75-2e16-4aa2-bde2-e35f34d089cd</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 1b115a75-2e16-4aa2-bde2-e35f34d089cd</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_04_Registrar Pago</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:53:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_04_Registrar Pago</_hname>
+					<_hid type="a">GUID 86c82459-8a4f-4bc2-84b9-bd11e13d475d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID e8c58f7a-f257-4d9b-9237-d0f10c1f90a6</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 54113ba8-01a3-40dc-82c3-9ad99bcc5152</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_26_Generar Comprobante de pago</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:9</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe generar comprobante de pago\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF026</reqID>
+			<AggregatesList type="e">
+				<value>GUID ec8c0ab6-cffb-44b1-a48a-92e1054dde61</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID ec8c0ab6-cffb-44b1-a48a-92e1054dde61</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_04_Registrar Pago</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:53:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_04_Registrar Pago</_hname>
+					<_hid type="a">GUID 86c82459-8a4f-4bc2-84b9-bd11e13d475d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 54113ba8-01a3-40dc-82c3-9ad99bcc5152</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 73e6185c-add4-4e2e-849f-3b5cc8f1cfdd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_27_Actualizar Estado de orden de Pago</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:9</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sisteme debe cambiar el estado de la orden de pago a pagado\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF027</reqID>
+			<AggregatesList type="e">
+				<value>GUID 03e362d4-1028-4476-83f9-b7e99f33d54a</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 03e362d4-1028-4476-83f9-b7e99f33d54a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_04_Registrar Pago</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:53:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_04_Registrar Pago</_hname>
+					<_hid type="a">GUID 86c82459-8a4f-4bc2-84b9-bd11e13d475d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 73e6185c-add4-4e2e-849f-3b5cc8f1cfdd</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID e254f760-caef-4c03-acd2-dd4ad24fefcb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_28_Generar Expediente</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:9</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe generar un expediente con los documentos del administrado\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF028</reqID>
+			<AggregatesList type="e">
+				<value>GUID 653c6a71-d8dc-42f2-babd-22c07f6f38df</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 653c6a71-d8dc-42f2-babd-22c07f6f38df</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_04_Registrar Pago</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:53:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_04_Registrar Pago</_hname>
+					<_hid type="a">GUID 86c82459-8a4f-4bc2-84b9-bd11e13d475d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID e254f760-caef-4c03-acd2-dd4ad24fefcb</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 4d3c2ee9-2ea7-46f3-b3b3-2b8ae6edd618</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_29_Imprimir comprobante de pago</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:9</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir imprimir el comprobante de pago\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF029</reqID>
+			<AggregatesList type="e">
+				<value>GUID 95a9ee26-4e08-4b73-ab7c-81cc9a130d99</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 95a9ee26-4e08-4b73-ab7c-81cc9a130d99</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_04_Registrar Pago</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:53:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_04_Registrar Pago</_hname>
+					<_hid type="a">GUID 86c82459-8a4f-4bc2-84b9-bd11e13d475d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 4d3c2ee9-2ea7-46f3-b3b3-2b8ae6edd618</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 6d33f790-a3b2-41b0-882c-b8a2ade8a10f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_30_Generar Notificacion de comprobante de pago</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:9</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe generar notificacion de Comprobante de pago\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF030</reqID>
+			<AggregatesList type="e">
+				<value>GUID 0ac40139-9700-4ff6-a710-426e8a1b38ac</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 0ac40139-9700-4ff6-a710-426e8a1b38ac</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_04_Registrar Pago</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:54:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_04_Registrar Pago</_hname>
+					<_hid type="a">GUID 86c82459-8a4f-4bc2-84b9-bd11e13d475d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 6d33f790-a3b2-41b0-882c-b8a2ade8a10f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 86dee6ea-7e59-47ad-acbc-aa61655a7ce9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_31_Buscar Orden de pago</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:9</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir buscar el comprobante de pago\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF031</reqID>
+			<AggregatesList type="e">
+				<value>GUID 4a3f57a5-ecbf-44f6-b57c-2f1e52d98326</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 4a3f57a5-ecbf-44f6-b57c-2f1e52d98326</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_04_Registrar Pago</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:54:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_04_Registrar Pago</_hname>
+					<_hid type="a">GUID 86c82459-8a4f-4bc2-84b9-bd11e13d475d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 86dee6ea-7e59-47ad-acbc-aa61655a7ce9</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID f7337ace-0c8a-4918-94fb-0ffa250e18d8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_32_Buscar comprobante de pago</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:9</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir buscar el comprobante de pago\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF032</reqID>
+			<AggregatesList type="e">
+				<value>GUID 6552c542-fe12-4d79-b63c-a3253f75cb40</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 6552c542-fe12-4d79-b63c-a3253f75cb40</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_04_Registrar Pago</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:54:23</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_04_Registrar Pago</_hname>
+					<_hid type="a">GUID 86c82459-8a4f-4bc2-84b9-bd11e13d475d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID f7337ace-0c8a-4918-94fb-0ffa250e18d8</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 4d0140b8-fbed-4eba-a442-b83f884d77f0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_33_Ver progreso de la solicitud de licencia de funcionamiento</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:34:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:34:43</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir ver el progreso de la solicitud de funcionamiento\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF033</reqID>
+			<AggregatesList type="e">
+				<value>GUID 7eab294c-7676-4c97-bc2a-ce3e48dd2619</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 7eab294c-7676-4c97-bc2a-ce3e48dd2619</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_03_Consultar Solicitudes de Licencia de Funcionamiento</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::13:40:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:18</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_03_Consultar Solicitudes de Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 0f2951e2-3f19-4822-9168-9c7ee10f8a31</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 4d0140b8-fbed-4eba-a442-b83f884d77f0</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID af9d019f-ed22-4bd4-b5ad-ec9af8c3de0f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_34_Registrar Solicitud ITSDC</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:39</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir registrar la solicitud ITSDC\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF034</reqID>
+			<AggregatesList type="e">
+				<value>GUID f2563e72-4eb2-44c0-833c-56b79f48a347</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID f2563e72-4eb2-44c0-833c-56b79f48a347</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_07_Registrar Solicitud ITSDC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:20:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:39</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_07_Registrar Solicitud ITSDC</_hname>
+					<_hid type="a">GUID 1a17ffbe-c3d9-459c-a389-51fc5131b80f</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID af9d019f-ed22-4bd4-b5ad-ec9af8c3de0f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID c4246ff5-2a65-47d2-b05e-03d00227a0aa</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_36_Registrar Expediente en el SGU</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:39</_modifiedTime>
+			<_lastID type="a">4</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe registrar el expediente en el SGU\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF036</reqID>
+			<AggregatesList type="e">
+				<value>GUID d84154a1-5763-406a-9134-6c4b5c48a377</value>
+				<value>GUID 6cc8a4a1-76ae-4ddf-8cfe-15a084551af7</value>
+				<value>GUID c1ffb3ff-ef2a-4fb6-9fd7-95069a433bff</value>
+				<value>GUID a9c17280-d068-41f9-9bf2-c7fd57eda6e3</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID d84154a1-5763-406a-9134-6c4b5c48a377</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_07_Registrar Solicitud ITSDC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:20:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:39</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_07_Registrar Solicitud ITSDC</_hname>
+					<_hid type="a">GUID 1a17ffbe-c3d9-459c-a389-51fc5131b80f</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID c4246ff5-2a65-47d2-b05e-03d00227a0aa</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 6cc8a4a1-76ae-4ddf-8cfe-15a084551af7</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_09_Registrar Certificado ITSDC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:4:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_09_Registrar Certificado ITSDC</_hname>
+					<_hid type="a">GUID 89643065-47c3-4b5b-9bdc-e1fa465f1d96</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID c4246ff5-2a65-47d2-b05e-03d00227a0aa</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID c1ffb3ff-ef2a-4fb6-9fd7-95069a433bff</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_11_Gestionar Resoluciones</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:35:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_11_Gestionar Resoluciones</_hname>
+					<_hid type="a">GUID 5c7ef447-4eeb-43e6-afb7-96c98064cbb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID c4246ff5-2a65-47d2-b05e-03d00227a0aa</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID a9c17280-d068-41f9-9bf2-c7fd57eda6e3</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_12_Gestionar Expediente</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:40:21</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_12_Gestionar Expediente</_hname>
+					<_hid type="a">GUID 63660c0b-ef17-4d10-8b76-5e0d29172e1a</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID c4246ff5-2a65-47d2-b05e-03d00227a0aa</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID a62bc8e6-cb6c-49ba-823a-6103cdd68a42</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_37_Enviar Notificacion al Supervisor de la SGDC</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:39</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe enviar notificacion al supervisor de inspecciones de la SGDC\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF037</reqID>
+			<AggregatesList type="e">
+				<value>GUID 8505b97b-4039-4cfd-bcab-9ef334a0034a</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 8505b97b-4039-4cfd-bcab-9ef334a0034a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_07_Registrar Solicitud ITSDC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:20:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:39</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_07_Registrar Solicitud ITSDC</_hname>
+					<_hid type="a">GUID 1a17ffbe-c3d9-459c-a389-51fc5131b80f</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID a62bc8e6-cb6c-49ba-823a-6103cdd68a42</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 43043899-fb71-4a25-a770-a136b947647c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_38_Registrar Inspecciones</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:45</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir registrar Inspecciones\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF038</reqID>
+			<AggregatesList type="e">
+				<value>GUID f96aebae-e5d1-406c-9b68-034fb333ac92</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID f96aebae-e5d1-406c-9b68-034fb333ac92</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_08_Registrar Inspeccion</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:58:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_08_Registrar Inspeccion</_hname>
+					<_hid type="a">GUID 9421d966-f979-411b-b964-7faca7987899</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 43043899-fb71-4a25-a770-a136b947647c</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 81878bb5-f34e-400d-8b78-8fae5d5ba48a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_39_Buscar Inspector</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:51</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir buscar Inspector\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF039</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 5d727ba7-f0ac-4530-8b51-f97282bfbb8e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_40_Registrar Inspector</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:45</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir registrar Inspector\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF040</reqID>
+			<AggregatesList type="e">
+				<value>GUID cb7fa755-e00f-4cab-81ab-148a693f0419</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID cb7fa755-e00f-4cab-81ab-148a693f0419</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_08_Registrar Inspeccion</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:58:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_08_Registrar Inspeccion</_hname>
+					<_hid type="a">GUID 9421d966-f979-411b-b964-7faca7987899</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 5d727ba7-f0ac-4530-8b51-f97282bfbb8e</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID f10b8651-51c2-44c1-be1d-78186babb49c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_41_Enviar Notificacion al Inspector</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:45</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe enviar notificacion al Inspector designado\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF041</reqID>
+			<AggregatesList type="e">
+				<value>GUID 29ed2ce1-aa56-4c15-895a-d151b9fdbaeb</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 29ed2ce1-aa56-4c15-895a-d151b9fdbaeb</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_08_Registrar Inspeccion</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::14:58:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_08_Registrar Inspeccion</_hname>
+					<_hid type="a">GUID 9421d966-f979-411b-b964-7faca7987899</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID f10b8651-51c2-44c1-be1d-78186babb49c</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 8c685d7c-72c2-4c11-8133-4b40909dafbb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_42_Registrar Certificado ITSDC</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:0</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir registrar el certificado ITSDC\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF042</reqID>
+			<AggregatesList type="e">
+				<value>GUID 31258953-6d05-42fd-8700-dedbbd06967c</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 31258953-6d05-42fd-8700-dedbbd06967c</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_09_Registrar Certificado ITSDC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:4:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_09_Registrar Certificado ITSDC</_hname>
+					<_hid type="a">GUID 89643065-47c3-4b5b-9bdc-e1fa465f1d96</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 8c685d7c-72c2-4c11-8133-4b40909dafbb</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 806d7272-6904-45b9-adbb-5fa705835dc1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_43_Registrar Certificado en expediente</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:0</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe registrar el Certificado ITSDC al Expediente\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF043</reqID>
+			<AggregatesList type="e">
+				<value>GUID 0a71d7d5-8e88-41ef-994d-013cb572fb86</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 0a71d7d5-8e88-41ef-994d-013cb572fb86</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_09_Registrar Certificado ITSDC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:5:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_09_Registrar Certificado ITSDC</_hname>
+					<_hid type="a">GUID 89643065-47c3-4b5b-9bdc-e1fa465f1d96</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 806d7272-6904-45b9-adbb-5fa705835dc1</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 3638962b-7942-4446-9ca8-76b0ed567271</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_44_Enviar Notificacion al Inspector Tecnico</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:0</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe enviar notificacion al Inspector Tecnico de la SGC\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF044</reqID>
+			<AggregatesList type="e">
+				<value>GUID 7634924c-af1a-4272-8fc9-b09619713f72</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 7634924c-af1a-4272-8fc9-b09619713f72</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_09_Registrar Certificado ITSDC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:5:5</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_09_Registrar Certificado ITSDC</_hname>
+					<_hid type="a">GUID 89643065-47c3-4b5b-9bdc-e1fa465f1d96</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 3638962b-7942-4446-9ca8-76b0ed567271</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 34f565bf-140a-4190-8017-afb779c13ba1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_45_Recibir documento de PACO</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:36</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir recibir documentos del Sistema PACO\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF_045</reqID>
+			<AggregatesList type="e">
+				<value>GUID ddcaab62-48ae-4681-94bd-4e300c3c3bf5</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID ddcaab62-48ae-4681-94bd-4e300c3c3bf5</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_10_Gestionar ITEC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:13:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:36</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_10_Gestionar ITEC</_hname>
+					<_hid type="a">GUID 6ffebfac-5080-43f9-88ab-5b712510707b</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 34f565bf-140a-4190-8017-afb779c13ba1</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 2e98bc85-19e4-45e4-9922-b324fb4ce6b1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_47_Buscar Itec</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:36</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir Buscar el ITEC\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF047</reqID>
+			<AggregatesList type="e">
+				<value>GUID d4012462-fbdb-4999-ae13-5a99bda38f75</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID d4012462-fbdb-4999-ae13-5a99bda38f75</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_10_Gestionar ITEC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:13:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:36</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_10_Gestionar ITEC</_hname>
+					<_hid type="a">GUID 6ffebfac-5080-43f9-88ab-5b712510707b</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 2e98bc85-19e4-45e4-9922-b324fb4ce6b1</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 7e8f5aaf-a924-450a-a712-ceba84e2e4e9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_48_Registrar Observaciones de ITEC</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:36</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir registrar observaciones al ITEC\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF048</reqID>
+			<AggregatesList type="e">
+				<value>GUID a05bbf0b-f215-46da-a33a-0779adfb612a</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID a05bbf0b-f215-46da-a33a-0779adfb612a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_10_Gestionar ITEC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:13:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:36</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_10_Gestionar ITEC</_hname>
+					<_hid type="a">GUID 6ffebfac-5080-43f9-88ab-5b712510707b</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 7e8f5aaf-a924-450a-a712-ceba84e2e4e9</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID de98b81c-9518-4412-aeec-59849524bb7e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_49_Actualizar estado ITEC</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:36</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe actualizar el estado del ITEC\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF049</reqID>
+			<AggregatesList type="e">
+				<value>GUID 9f0d3352-6449-4f9a-b20b-52c11c69c5d6</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 9f0d3352-6449-4f9a-b20b-52c11c69c5d6</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_10_Gestionar ITEC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:13:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:36</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_10_Gestionar ITEC</_hname>
+					<_hid type="a">GUID 6ffebfac-5080-43f9-88ab-5b712510707b</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID de98b81c-9518-4412-aeec-59849524bb7e</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID a532ca08-edfa-4180-bd5f-37ec3d0c6831</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_50_Registrar Resolucion</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:36</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir registrar la RLIC y/o RSG\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF050</reqID>
+			<AggregatesList type="e">
+				<value>GUID 96d5ecb4-c68f-46a3-9319-16a8e1b3ef55</value>
+				<value>GUID 344eab62-333b-4903-ab6d-093cdfff45f3</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 96d5ecb4-c68f-46a3-9319-16a8e1b3ef55</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_10_Gestionar ITEC</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:13:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:36</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_10_Gestionar ITEC</_hname>
+					<_hid type="a">GUID 6ffebfac-5080-43f9-88ab-5b712510707b</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID a532ca08-edfa-4180-bd5f-37ec3d0c6831</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 344eab62-333b-4903-ab6d-093cdfff45f3</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_11_Gestionar Resoluciones</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:35:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_11_Gestionar Resoluciones</_hname>
+					<_hid type="a">GUID 5c7ef447-4eeb-43e6-afb7-96c98064cbb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID a532ca08-edfa-4180-bd5f-37ec3d0c6831</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 34776416-447f-4c47-a532-09d93e786277</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_51_Firmar Resolucion</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir firmar la RLIC y/o RSG\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF051</reqID>
+			<AggregatesList type="e">
+				<value>GUID f2a0f919-ca44-4c84-80df-110adf530e2e</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID f2a0f919-ca44-4c84-80df-110adf530e2e</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_11_Gestionar Resoluciones</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:35:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_11_Gestionar Resoluciones</_hname>
+					<_hid type="a">GUID 5c7ef447-4eeb-43e6-afb7-96c98064cbb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 34776416-447f-4c47-a532-09d93e786277</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 0d2b407e-2873-4022-beb3-e20128263088</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_52_Enviar Notificacion al Subgerente</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe enviar notificacion al Subgerente de la SGC \cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF052</reqID>
+			<AggregatesList type="e">
+				<value>GUID 36ce51c7-1bc8-425a-8c37-814fafcd68d7</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 36ce51c7-1bc8-425a-8c37-814fafcd68d7</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_11_Gestionar Resoluciones</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:35:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_11_Gestionar Resoluciones</_hname>
+					<_hid type="a">GUID 5c7ef447-4eeb-43e6-afb7-96c98064cbb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 0d2b407e-2873-4022-beb3-e20128263088</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 2280fa27-0b5d-4df1-a064-687613ef79cd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_53_Buscar Resoluciones</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir buscar las resoluciones\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF053</reqID>
+			<AggregatesList type="e">
+				<value>GUID e5b0f70f-6f8f-4aef-a9d8-41bd412b5a6b</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID e5b0f70f-6f8f-4aef-a9d8-41bd412b5a6b</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_11_Gestionar Resoluciones</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:35:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_11_Gestionar Resoluciones</_hname>
+					<_hid type="a">GUID 5c7ef447-4eeb-43e6-afb7-96c98064cbb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 2280fa27-0b5d-4df1-a064-687613ef79cd</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 9b1509ae-8704-4794-8de2-7eb382706fb2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_54_Sellar Resoluciones</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir sellar las resoluciones\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF054</reqID>
+			<AggregatesList type="e">
+				<value>GUID f828741d-b75f-4634-bb29-49dd3381ce76</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID f828741d-b75f-4634-bb29-49dd3381ce76</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_11_Gestionar Resoluciones</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:35:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_11_Gestionar Resoluciones</_hname>
+					<_hid type="a">GUID 5c7ef447-4eeb-43e6-afb7-96c98064cbb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 9b1509ae-8704-4794-8de2-7eb382706fb2</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 98c9989c-b02c-4c52-8f63-50b560dee632</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_55_Registrar resoluciones en el expediente</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe registrar las resoluciones en el expediente\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF055</reqID>
+			<AggregatesList type="e">
+				<value>GUID 65a4c194-c8ea-4d22-bcdc-95f28dd2ac17</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 65a4c194-c8ea-4d22-bcdc-95f28dd2ac17</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_11_Gestionar Resoluciones</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:36:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_11_Gestionar Resoluciones</_hname>
+					<_hid type="a">GUID 5c7ef447-4eeb-43e6-afb7-96c98064cbb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 98c9989c-b02c-4c52-8f63-50b560dee632</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID e0bbf421-12a8-4adb-81df-88cd6a96a989</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_56_Enviar notificacion al tecnico administrativo</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe notificar al tecnico administrativo de ls SGC\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF056</reqID>
+			<AggregatesList type="e">
+				<value>GUID 9eba28bb-2ae8-4afb-94fb-15ac2e641200</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 9eba28bb-2ae8-4afb-94fb-15ac2e641200</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_11_Gestionar Resoluciones</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:36:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_11_Gestionar Resoluciones</_hname>
+					<_hid type="a">GUID 5c7ef447-4eeb-43e6-afb7-96c98064cbb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID e0bbf421-12a8-4adb-81df-88cd6a96a989</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 1f4b5ae2-be6a-4171-8bf5-0e8c8b7e04ce</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_58_Actualizar estado a sellado</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe actualizar el estado de las resoluciones a sellado\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF058</reqID>
+			<AggregatesList type="e">
+				<value>GUID edd54082-7c7a-4e26-9803-cd00bea1c214</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID edd54082-7c7a-4e26-9803-cd00bea1c214</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_11_Gestionar Resoluciones</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:36:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_11_Gestionar Resoluciones</_hname>
+					<_hid type="a">GUID 5c7ef447-4eeb-43e6-afb7-96c98064cbb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 1f4b5ae2-be6a-4171-8bf5-0e8c8b7e04ce</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID a43e1fb3-221d-4c96-b13e-e463d0c43e22</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_59_Enviar notificacion al administrado</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe notificar al administrado\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF059</reqID>
+			<AggregatesList type="e">
+				<value>GUID c7517411-cfb1-43d3-89fe-4d7bba289a22</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID c7517411-cfb1-43d3-89fe-4d7bba289a22</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_11_Gestionar Resoluciones</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:36:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_11_Gestionar Resoluciones</_hname>
+					<_hid type="a">GUID 5c7ef447-4eeb-43e6-afb7-96c98064cbb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID a43e1fb3-221d-4c96-b13e-e463d0c43e22</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 882d5142-5b6e-4a6a-a7b5-0f1f635193de</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_60_Revisar Expediente</_name>
+			<_modifiedTimeWeak type="a">6.23.2021::12:29:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.23.2021::12:29:40</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permitir revisar el expediente\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF060</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID e36af908-22bf-49fc-a1e8-979c46a97e87</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FEAT_61_Registrar observaciones del expediente</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:37:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:50</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green102\blue204;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 El sistema debe permititr registrar observaciones del expediente\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF061</reqID>
+			<AggregatesList type="e">
+				<value>GUID 9df8e479-9b35-4640-b960-65a8d2e26f78</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 9df8e479-9b35-4640-b960-65a8d2e26f78</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU_12_Gestionar Expediente</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">derive</_hname>
+							<_hid type="a">GUID 77e51128-5c12-48fa-9a18-d782ae0ec76a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.23.2021::15:40:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:37:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU_12_Gestionar Expediente</_hname>
+					<_hid type="a">GUID 63660c0b-ef17-4d10-8b76-5e0d29172e1a</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID e36af908-22bf-49fc-a1e8-979c46a97e87</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 7f6c2e02-90bd-4792-b0c0-10015d488b33</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

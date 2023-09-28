@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID bbafc162-23a5-420c-8ac7-519ab930cae6</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Requerimiento</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:46:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:46:18</_modifiedTime>
+			<_lastID type="a">27</_lastID>
+			<weakCGTime type="a">6.22.2021::10:46:18</weakCGTime>
+			<strongCGTime type="a">3.1.2021::12:50:22</strongCGTime>
+			<_defaultComposite type="s">GUID b5e7c1dc-e874-4ffa-beaa-dea11ff7c5fa</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID fd4f9777-57ea-49f2-870a-f006b1077792</value>
+				<value>GUID c8f9ed60-3076-4789-98a3-9d88eff07182</value>
+				<value>GUID fd69e095-c3ce-44bc-aa87-d4cc405a75ff</value>
+				<value>GUID 9ee3a212-84ee-4ec1-ac63-8803ec6d2684</value>
+				<value>GUID 1347729f-12ab-4df5-82c4-adf1f7295de8</value>
+				<value>GUID 00db17be-37fd-41d4-b531-bcc4ea53d4e4</value>
+				<value>GUID 0cd27153-150f-4d1b-a376-becba8dbb367</value>
+				<value>GUID 16137abb-a919-45dd-859e-cc700ddd7309</value>
+				<value>GUID 0a47ed57-14aa-49a8-a053-ed24a05479eb</value>
+				<value>GUID d59058f5-e6ef-47d0-abf7-2e7333a78f79</value>
+				<value>GUID 173cba1f-cdb4-4f8f-bde7-ea44cad19c2b</value>
+				<value>GUID c7f6c81a-5fab-4d6b-89b0-657dfa62bd4d</value>
+				<value>GUID d77c6435-0bf7-40f5-9647-f8bdd4a2c22e</value>
+				<value>GUID 1b8bd235-12d1-4a69-ac22-d2734d6df4af</value>
+				<value>GUID f1bce2bf-5901-4655-8300-d83992efaa16</value>
+				<value>GUID 8486b36b-c962-4fbb-8c6e-cfc2be852a17</value>
+				<value>GUID 0806ff23-4bec-4198-950c-ab8b77b885b1</value>
+				<value>GUID 11020767-fb0e-41a9-b685-f731c1299549</value>
+				<value>GUID 52e0a5f5-48dd-46c5-88c6-04f996a6d83c</value>
+				<value>GUID 73f7ec43-dfe8-48ab-b472-31a476e6f0d2</value>
+				<value>GUID b26b8ac4-d5bd-42bd-94f5-5070ef8d3e85</value>
+				<value>GUID dbb890eb-5c81-43c4-9bfb-eb5d6662f99b</value>
+				<value>GUID 482385b6-2741-4250-888e-aae2cab3795b</value>
+				<value>GUID 447fa409-f263-4a4e-90d2-204dde0d04df</value>
+				<value>GUID adf92e57-47af-4230-b46a-5c17541d4971</value>
+				<value>GUID b92ffb29-1cac-40b5-b479-36ff91ad3cc6</value>
+				<value>GUID b5e7c1dc-e874-4ffa-beaa-dea11ff7c5fa</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID fd4f9777-57ea-49f2-870a-f006b1077792</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_01_Iniciar Sesion</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::9:54:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::9:54:11</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Calibri;}{\f2\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Usuario quiero ingresar a la web para inciar sesion\f1 .\cf0\f2\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_01</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID c8f9ed60-3076-4789-98a3-9d88eff07182</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_02_Recibir Notificaciones</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::9:55:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::9:55:8</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como\cf2  Usuario quiero recibir notificaciones del sistema para seguir el progreso de mi solicitud\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_02</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID fd69e095-c3ce-44bc-aa87-d4cc405a75ff</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_03_Registrar Solicitud de Licencia</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::9:56:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::9:56:18</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Administrado quiero registrar la solicitud de licencia de funcionamiento  y mis documentos en la web para obtener la licencia de funcionamiento.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_03</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 9ee3a212-84ee-4ec1-ac63-8803ec6d2684</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_04_Ver solicitudes de licencia</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::9:57:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::9:57:17</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como \cf2 Asesor de plataforma quiero ver las solicitudes de licencia de funcionamiento y expediente para revisarlos.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_04</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 1347729f-12ab-4df5-82c4-adf1f7295de8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_05_Actualizar estado de la solicitud de licencia</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:3:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:3:52</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como \cf2 Asesor de plataforma quiero aprobar o rechazar solicitudes de licencia para que el sistema genere la orden de cancelacion y notificacion.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_05</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 00db17be-37fd-41d4-b531-bcc4ea53d4e4</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_06_Ver Oden de pago</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:4:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:4:29</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Administrado quiero ver la orden de cancelacion para tener conocimiento del monto total a pagar de la licencia de funcionamiento.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_06</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 0cd27153-150f-4d1b-a376-becba8dbb367</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_07_Registrar Pago de la orden de pago</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:5:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:5:12</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Calibri;}{\f2\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Administrado quiero efectuar el pago de la orden de cancelaci\f1\'f3\f0 n para que se autogenere mi expediente y se continue el proceso.\cf0\f2\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_07</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 16137abb-a919-45dd-859e-cc700ddd7309</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_08_Buscar Comprobante de Pago</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:5:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:5:40</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Administrado quiero ver comprobante de pago para confirmar que el pago se hizo correctamente.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_08</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 0a47ed57-14aa-49a8-a053-ed24a05479eb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_09_Imprimir comprobante de pago</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:6:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:6:4</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Administrado quiero imprimir comprobante de pago para tenerlo como prueba del pago.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_09</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID d59058f5-e6ef-47d0-abf7-2e7333a78f79</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_10_Ver progreso de la solicitud de licencia</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:6:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:6:48</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Administrado quiero ver el progreso de mi solicitud de funcionamienro para saber cuando culminara.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_10</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 173cba1f-cdb4-4f8f-bde7-ea44cad19c2b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_11_Ver Ordenes de Pago</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:36:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:36:36</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como \cf2 Asesor de plataforma quiero ver las ordenes de pago para ver sus estados.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_11</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID c7f6c81a-5fab-4d6b-89b0-657dfa62bd4d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_12_Registrar solicitud ITSDC</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:37:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:37:6</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como \cf2 Asesor de plataforma quiero registrar la solicitud de ITSDC para que el Supervisor de Inspecciones pueda elaborar el certificado.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_12</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID d77c6435-0bf7-40f5-9647-f8bdd4a2c22e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_13_Ver los expedientes</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:37:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:37:43</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como \cf2 Asesor de plataforma quiero ver los expedientes para vizualizar los documentos de los administrados.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_13</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 1b8bd235-12d1-4a69-ac22-d2734d6df4af</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_14_Registrar Inspeccion</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:38:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:38:18</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Supervisor de inspecciones de la SGDC quiero registrar inspecciones para que se pueda generar el certificado ITSDC.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_14</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID f1bce2bf-5901-4655-8300-d83992efaa16</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_15_Registrar Certificado ITSDC</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:38:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:38:50</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Supervisor de inspecciones de la SGDC quiero registrar el certificado de ITSDC para que se continuar con el proceso.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_15</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 8486b36b-c962-4fbb-8c6e-cfc2be852a17</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_16_Ver los expedientes</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:39:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:39:19</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Supervisor de inspecciones de la SGDC quiero ver los expedientes de los administrados para poder ver los documentos del administrado.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_16</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 0806ff23-4bec-4198-950c-ab8b77b885b1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_17_Ver los expedientes</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:39:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:39:45</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Inspector tecnico de la SGC quiero ver los expedientes de los administrados para poder revisar el ITEC que vino del sistema PACO.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_17</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 11020767-fb0e-41a9-b685-f731c1299549</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_18_Revisar ITEC</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:40:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:40:3</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Inspector tecnico de la SGC quiero revisar el ITEC para ver si hay observaciones o no.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_18</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 52e0a5f5-48dd-46c5-88c6-04f996a6d83c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_19_Registrar RLIC o RSG</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:41:5</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:41:5</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Inspector tecnico de la SGC quiero registrar el RLIC y/o RSG para el subgerente los firme.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_19</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 73f7ec43-dfe8-48ab-b472-31a476e6f0d2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_20_Ver los expedientes</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:42:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:42:35</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Calibri;}{\f2\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como \cf2\f1 Subgerente de la SGC\f0  quiero ver los expedientes para vizualizar que las resoluciones fueron registradas correctamente.\cf0\f2\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_20</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID b26b8ac4-d5bd-42bd-94f5-5070ef8d3e85</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_21_Firmar la resolucion</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:43:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:43:36</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como Subgerente de la SGC quiero firmar la RLIC y/o RSG para que estos puedan ser sellados por el Tecnico Administrativo.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_21</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID dbb890eb-5c81-43c4-9bfb-eb5d6662f99b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_22_Ver las resoluciones</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:43:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:43:56</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como\cf2  Tecnico administrativo de la SGC quiero ver las resoluciones firmadas para poder sellarlas.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_22</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 482385b6-2741-4250-888e-aae2cab3795b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_23_Sellar Resoluciones</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:44:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:44:39</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como\cf2  Tecnico administrativo de la SGC quiero sellar las resoluciones firmadas para que se registren en el expediente.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_23</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 447fa409-f263-4a4e-90d2-204dde0d04df</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_24_Revisar Expediente</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:45:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:45:31</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como\cf2  Tecnico administrativo de la SGC quiero revisar el expediente para derivarlo a la SGCa o al archivo provisional.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_24</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID adf92e57-47af-4230-b46a-5c17541d4971</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_25_Enviar Excpediente</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:45:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:45:38</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como \cf2 Tecnico administrativo de la SGC quiero enviar expediente a la SGCa para que actualice base de datos y escanee documentos.\cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_25</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID b92ffb29-1cac-40b5-b479-36ff91ad3cc6</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">STRQ_26_Enviar expediente</_name>
+			<_modifiedTimeWeak type="a">6.22.2021::10:45:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.22.2021::10:45:56</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}%0D
+\viewkind4\uc1\pard\cf1\f0\fs22 Yo como\cf2  Tecnico administrativo de la SGC quiero enviar expediente a archivo provisional de la SGC para la espera de recurso impugnatorio \cf0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">STRQ_26</reqID>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID b5e7c1dc-e874-4ffa-beaa-dea11ff7c5fa</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
