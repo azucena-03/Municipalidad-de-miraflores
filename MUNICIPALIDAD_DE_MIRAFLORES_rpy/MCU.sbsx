@@ -11,7 +11,7 @@
 			<_id type="a">GUID 32bd29eb-e814-43d3-8cd6-c55ed875cc7c</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::5:55:1</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::1:39:14</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -19,7 +19,7 @@
 					<_hid type="a">GUID 4824b45b-0258-474b-a106-495bce8f8628</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::5:55:1</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:45:49</_modifiedTime>
 			<_lastID type="a">42</_lastID>
 			<weakCGTime type="a">6.21.2021::21:46:57</weakCGTime>
 			<strongCGTime type="a">6.21.2021::21:46:57</strongCGTime>
@@ -17075,7 +17075,7 @@
 			<_id type="a">GUID 08d43b0b-a158-4b86-95ab-a87d9f420ca4</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU_01_Inciar Sesion</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.1.2021::5:55:28</_modifiedTimeWeak>
 			<_modifiedTime type="a">3.1.2021::5:55:28</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">3.1.2021::5:55:28</weakCGTime>
@@ -17154,7 +17154,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU_02_Registrar Solicitud de Licencia de Funcionamiento</_name>
 			<_modifiedTimeWeak type="a">6.20.2020::22:26:21</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::1:36:13</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:41:11</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">6.20.2020::22:26:21</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -17170,6 +17170,10 @@
 			</_EntryPoints>
 			<AggregatesList type="e">
 				<value>GUID 39306e99-bf11-4c65-9167-9eb8d3e94a90</value>
+				<value>GUID 0051945f-0e50-4acb-9667-c287c628e123</value>
+				<value>GUID c5b78e82-32fd-4f63-885f-630d0153e6b7</value>
+				<value>GUID 9b324353-0aac-4f65-820f-efbda81783c2</value>
+				<value>GUID e195167e-159a-4e65-a1a4-3e3ec7f1dae2</value>
 			</AggregatesList>
 		</IUseCase>
 		<IAssociationEnd type="e">
@@ -17193,6 +17197,122 @@
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 0051945f-0e50-4acb-9667-c287c628e123</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_Menu_Principal</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:39:14</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_Analisis.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hname type="a">CI_Menu_Principal</_hname>
+					<_hid type="a">GUID 87b8005c-f41b-4326-9e31-0dedb845e398</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Modelo_Analisis.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hclass type="a">CI_Menu_Principal</_hclass>
+					<_hname type="a">itsCU_02_Registrar Solicitud de Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 781aebb6-ec95-4658-9193-55a753a28ddf</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID c5b78e82-32fd-4f63-885f-630d0153e6b7</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_Menu_Principal_1</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:39:45</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_Analisis.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hname type="a">CI_Menu_Principal</_hname>
+					<_hid type="a">GUID 87b8005c-f41b-4326-9e31-0dedb845e398</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Modelo_Analisis.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hclass type="a">CI_Menu_Principal</_hclass>
+					<_hname type="a">itsCU_02_Registrar Solicitud de Licencia de Funcionamiento_1</_hname>
+					<_hid type="a">GUID 3b521054-bb2c-4a88-bb62-64eaaabe0f07</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 9b324353-0aac-4f65-820f-efbda81783c2</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_Registrar_Solicitud_Licencia_Funcionamiento</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:40:6</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_Analisis.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hname type="a">CI_Registrar_Solicitud_Licencia_Funcionamiento</_hname>
+					<_hid type="a">GUID cf923037-c15f-4e97-8743-cb1b97fd91a6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Modelo_Analisis.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hclass type="a">CI_Registrar_Solicitud_Licencia_Funcionamiento</_hclass>
+					<_hname type="a">itsCU_02_Registrar Solicitud de Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 1f681c8c-e85b-4c32-86a8-d4c87fdd3865</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID e195167e-159a-4e65-a1a4-3e3ec7f1dae2</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_Finalizar_Registro_Licencia_Funcionamiento</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:41:11</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_Analisis.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hname type="a">CI_Finalizar_Registro_Licencia_Funcionamiento</_hname>
+					<_hid type="a">GUID 0c12845f-32f7-4433-92d3-13e5c55c37d4</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Modelo_Analisis.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hclass type="a">CI_Finalizar_Registro_Licencia_Funcionamiento</_hclass>
+					<_hname type="a">itsCU_02_Registrar Solicitud de Licencia de Funcionamiento</_hname>
+					<_hid type="a">GUID 7550cfd1-7923-4984-9e7a-c652203f343d</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
 		<IUseCase type="e">
 			<_id type="a">GUID 0f2951e2-3f19-4822-9168-9c7ee10f8a31</_id>
@@ -17242,7 +17362,7 @@
 			<_id type="a">GUID 86c82459-8a4f-4bc2-84b9-bd11e13d475d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU_04_Registrar Pago</_name>
-			<_modifiedTimeWeak type="a">6.20.2020::22:48:58</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.1.2021::5:52:28</_modifiedTimeWeak>
 			<_modifiedTime type="a">3.1.2021::5:52:28</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">3.1.2021::5:52:28</weakCGTime>
@@ -17320,7 +17440,7 @@
 			<_id type="a">GUID 6de1a942-8448-44fc-9087-d9e843887c77</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU_06_Gestionar Solicitudes de  Licencia de Funcionamiento</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.1.2021::5:54:6</_modifiedTimeWeak>
 			<_modifiedTime type="a">3.1.2021::5:54:6</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">3.1.2021::5:54:6</weakCGTime>
@@ -17398,7 +17518,7 @@
 			<_id type="a">GUID 1a17ffbe-c3d9-459c-a389-51fc5131b80f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU_07_Registrar Solicitud ITSDC</_name>
-			<_modifiedTimeWeak type="a">6.20.2020::23:31:1</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.1.2021::5:54:45</_modifiedTimeWeak>
 			<_modifiedTime type="a">3.1.2021::5:54:45</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<weakCGTime type="a">3.1.2021::5:54:45</weakCGTime>
@@ -17509,7 +17629,7 @@
 			<_id type="a">GUID 9421d966-f979-411b-b964-7faca7987899</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU_08_Registrar Inspeccion</_name>
-			<_modifiedTimeWeak type="a">6.21.2020::2:13:11</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.1.2021::5:54:8</_modifiedTimeWeak>
 			<_modifiedTime type="a">3.1.2021::5:54:8</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<weakCGTime type="a">3.1.2021::5:54:8</weakCGTime>
@@ -17819,11 +17939,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -17843,11 +17958,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -17867,11 +17977,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -17891,11 +17996,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
